@@ -3,6 +3,10 @@
   text-align: center;
 }
 
+.no-display {
+  display: none;
+}
+
 .TwirlyPig {
   transition: all 3s ease-in-out;
   display: inline;
